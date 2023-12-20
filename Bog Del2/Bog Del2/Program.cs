@@ -18,6 +18,7 @@
                 Isbn = "978-7543331723" 
             };
 
+            Console.WriteLine($"Faggot bog nummer one {bog1.Titel}");
             bog1.VisBogInfo();
             bog2.VisBogInfo();
 
